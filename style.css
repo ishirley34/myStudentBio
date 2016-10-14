@@ -1,0 +1,23 @@
+body{
+	background-color: #efeee7;
+	font-family:"Georgia",Times New Roman,Times,serif;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: #d21034
+
+}
+
+h1{
+	background-color: #333333;
+	color:white;
+	font-size: 28px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+
+
+}
